@@ -234,6 +234,7 @@ h6 {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding-left: 270px;
 }
 .arlo_tm_topbar .logo .dark {
   display: none;
@@ -543,10 +544,11 @@ h6 {
   color: #e65f78;
 }
 .arlo_tm_hero .text_typing p {
-  color: #fff;
-  font-size: 19px;
+  color: #e16464;
+  font-size: 24px;
   font-weight: 500;
   font-family: "Poppins";
+  padding-top: 350px;
 }
 .arlo_tm_arrow_wrap {
   position: absolute;
