@@ -550,6 +550,13 @@ h6 {
   font-family: "Poppins";
   padding-top: 350px;
 }
+.arlo_tm_hero .text_typing_2 p {
+  color: #e4bbbb;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: "Poppins";
+  padding-top: 600px;
+}
 .arlo_tm_arrow_wrap {
   position: absolute;
   left: 50%;
